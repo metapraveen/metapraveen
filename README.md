@@ -5,10 +5,6 @@ I like building web applications using React,TypeScript,Ruby and Rails
 I currently live in Berlin, Germany  
 
 
-If you are new in tech and want some help to get started, I can help you to naviage in my free time.  
-I am reachable on [twitter](https://mobile.twitter.com/metapraveen) and praveen.kumar@hey.com  
-
-
 
 <!--
 **metapraveen/metapraveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
