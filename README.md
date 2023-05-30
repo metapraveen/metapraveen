@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Praveen Kumar  
-I like building web applications using React,TypeScript,Ruby and Rails  
+I write desriptive long commit messages.  
 I currently live in Berlin, Germany  
 
 
